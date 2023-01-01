@@ -1,4 +1,6 @@
-### 欢迎来到前端嚣张农民GitHub主页 👋
+<!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
+
+<h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到前端嚣张农民GitHub主页👋!&center=true&size=27"> </a> </h1>
 
 <!--
 **linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +22,8 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiqian&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=linweiqian" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=linweiqian&theme=xcode" /> </div>
+
+
 🔥 My projects:
 -----------------------
 个人博客https://lin-xiuer.gitee.io/
