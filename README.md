@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🔥 My projects:
 -----------------------
-[!-https://lin-xiuer.gitee.io/]个人博客
+个人博客https://lin-xiuer.gitee.io/
