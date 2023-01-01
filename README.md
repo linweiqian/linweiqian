@@ -1,4 +1,4 @@
-### 前端嚣张农民 👋
+### 欢迎来到前端嚣张农民GitHub主页 👋
 
 <!--
 **linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linweiqian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true)
